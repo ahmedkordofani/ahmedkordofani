@@ -4,14 +4,19 @@
 
 - [Active Directory Home Lab](https://github.com/ahmedkordofani)
 
-<h2>Certifications</h2>
+<h2>💻 Software Development Projects:</h2>
+
+- [Makersbnb "Airbnb" Mockup Project](https://github.com/ahmedkordofani/airbnb_project)
+
+
+<h2>🏆 Certifications</h2>
 
 - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/P6ZVXN6N3TME)
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/GDUMMH44FF42)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial - Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Tutorial - Active Directory Home Lab](https://github.com/ahmedkordofani)
 
 
 <h2> 🤳 Connect with me:</h2>
