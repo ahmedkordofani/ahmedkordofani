@@ -22,7 +22,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/k0rd0f4n1
-[youtube]: https://www.youtube.com/channel/UCxUtKVeKuLz2slXeIn8yw3A
+[youtube]: (https://youtube.com/@ahmedkordofani
 [instagram]: https://www.instagram.com/k0rd0f4n1
 [linkedin]: https://linkedin.com/in/ahmedkordofani
 
