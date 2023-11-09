@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ahmed! <br/><a href="https://github.com/ahmedkordofani">Programmer</a>, <a href="https://www.linkedin.com/in/ahmedkordofani/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Ahmed! <br/><a href="https://github.com/ahmedkordofani">Programmer</a>, <a href="https://www.linkedin.com/in/ahmedkordofani/">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
