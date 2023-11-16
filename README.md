@@ -14,7 +14,7 @@
 - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/P6ZVXN6N3TME)
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/GDUMMH44FF42)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Tutorial - Active Directory Home Lab](https://youtu.be/Mo4wBUCzg0o)
 
