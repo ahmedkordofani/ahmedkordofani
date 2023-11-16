@@ -16,7 +16,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Tutorial - Active Directory Home Lab](https://youtu.be/Mo4wBUCzg0o)
+- [Tutorial - Active Directory Home Lab](https://youtu.be/4SLPpQJ_OSk)
 
 
 <h2> 🤳 Connect with me:</h2>
