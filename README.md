@@ -1,5 +1,9 @@
 <h1>Hi, I'm Ahmed! <br/><a href="https://github.com/ahmedkordofani">Programmer</a>, <a href="https://www.linkedin.com/in/ahmedkordofani/">Cybersecurity Enthusiast</a></h1>
 
+<h2>📄 Curriculum Vitae (CV)</h2>
+
+- [Download my CV](https://drive.google.com/file/d/1IL5TyECsdj6DmsMXiKt5USzCktPOBeNT/view?usp=sharing)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/ahmedkordofani/active_directory_lab)
