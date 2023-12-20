@@ -6,6 +6,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Google Cybersecurity Portfolio](https://github.com/ahmedkordofani/Google-Cybersecurity-Professional-Certificate)
 - [Active Directory Home Lab](https://github.com/ahmedkordofani/active_directory_lab)
 
 <h2>💻 Software Development Projects:</h2>
